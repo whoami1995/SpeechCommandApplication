@@ -1,0 +1,13 @@
+C:\Users\11400747\Documents\03 - DotNetProjecten\SpeechApplication\SpeechApplication\bin\Debug\SpeechApplication.exe.config
+C:\Users\11400747\Documents\03 - DotNetProjecten\SpeechApplication\SpeechApplication\bin\Debug\SpeechApplication.exe
+C:\Users\11400747\Documents\03 - DotNetProjecten\SpeechApplication\SpeechApplication\bin\Debug\SpeechApplication.pdb
+C:\Users\11400747\Documents\03 - DotNetProjecten\SpeechApplication\SpeechApplication\obj\Debug\SpeechApplication.csprojResolveAssemblyReference.cache
+C:\Users\11400747\Documents\03 - DotNetProjecten\SpeechApplication\SpeechApplication\obj\Debug\MainWindow.baml
+C:\Users\11400747\Documents\03 - DotNetProjecten\SpeechApplication\SpeechApplication\obj\Debug\MainWindow.g.cs
+C:\Users\11400747\Documents\03 - DotNetProjecten\SpeechApplication\SpeechApplication\obj\Debug\App.g.cs
+C:\Users\11400747\Documents\03 - DotNetProjecten\SpeechApplication\SpeechApplication\obj\Debug\SpeechApplication_MarkupCompile.cache
+C:\Users\11400747\Documents\03 - DotNetProjecten\SpeechApplication\SpeechApplication\obj\Debug\SpeechApplication.g.resources
+C:\Users\11400747\Documents\03 - DotNetProjecten\SpeechApplication\SpeechApplication\obj\Debug\SpeechApplication.Properties.Resources.resources
+C:\Users\11400747\Documents\03 - DotNetProjecten\SpeechApplication\SpeechApplication\obj\Debug\SpeechApplication.csproj.GenerateResource.Cache
+C:\Users\11400747\Documents\03 - DotNetProjecten\SpeechApplication\SpeechApplication\obj\Debug\SpeechApplication.exe
+C:\Users\11400747\Documents\03 - DotNetProjecten\SpeechApplication\SpeechApplication\obj\Debug\SpeechApplication.pdb
